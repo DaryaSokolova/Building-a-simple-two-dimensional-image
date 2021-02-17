@@ -1,0 +1,5 @@
+D:\c++\SokolovaTask2\Debug\SokolovaTask2.vcxprojAssemblyReference.cache
+D:\c++\SokolovaTask2\Debug\SokolovaTask2.MyForm.resources
+D:\c++\SokolovaTask2\Debug\SokolovaTask2.vcxproj.GenerateResource.cache
+D:\c++\SokolovaTask2\Debug\SokolovaTask2.exe
+D:\c++\SokolovaTask2\Debug\SokolovaTask2.pdb

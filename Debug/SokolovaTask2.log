@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\c++\SokolovaTask2\MyForm.h(396,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\c++\SokolovaTask2\MyForm.h(397,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\c++\SokolovaTask2\MyForm.h(428,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\c++\SokolovaTask2\MyForm.h(437,22): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SokolovaTask2.vcxproj -> D:\c++\SokolovaTask2\Debug\SokolovaTask2.exe
